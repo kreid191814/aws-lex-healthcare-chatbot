@@ -22,7 +22,7 @@ The chatbot is designed to support healthcare operational workflows such as:
 - “How do I verify eligibility?”
 - “Route me to support”
 
-- ## Technologies & Concepts
+## Technologies & Concepts
 - Amazon Lex
 - JSON
 - API workflows
